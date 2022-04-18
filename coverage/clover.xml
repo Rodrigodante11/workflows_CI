@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650310698999" clover="3.2.0">
+  <project timestamp="1650310698999" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="20" coveredelements="20" complexity="0" loc="17" ncloc="17" packages="1" files="3" classes="3"/>
+    <file name="Constants.js" path="C:\Users\DELL\Desktop\P8\C214\lab\C214-Lab_exercicios\workslowsCI\CI_test\src\utils\Constants.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="cars_validation.js" path="C:\Users\DELL\Desktop\P8\C214\lab\C214-Lab_exercicios\workslowsCI\CI_test\src\utils\cars_validation.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+    </file>
+    <file name="validations.js" path="C:\Users\DELL\Desktop\P8\C214\lab\C214-Lab_exercicios\workslowsCI\CI_test\src\utils\validations.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
