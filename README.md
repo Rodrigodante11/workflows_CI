@@ -1,4 +1,4 @@
-[![Aula6NodeCI](https://github.com/Rodrigodante11/CI_test/blob/master/.github/workflows/main.yml/badge.svg)](https://github.com/Rodrigodante11/CI_test/actions)
+[![Node.js Package](https://github.com/Rodrigodante11/workflows_CI/actions/workflows/main.yml/badge.svg)](https://github.com/Rodrigodante11/workflows_CI/actions/workflows/main.yml)
 
 
 # tdd-ci-devops
